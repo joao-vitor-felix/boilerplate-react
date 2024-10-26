@@ -47,7 +47,7 @@
     "git-commit-msg-linter": "^5.0.8",
     "husky": "^9.1.6",
     "jsdom": "^25.0.1",
-    "lint-staged": "^15.2.7",
+    "lint-staged": "^15.2.10",
     "postcss": "^8.4.47",
     "prettier": "^3.3.3",
     "tailwind-merge": "^2.3.0",
